@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif" />
+    <img src="https://commons.wikimedia.org/wiki/File:Digital_rain_banner.gif#/media/File:Digital_rain_banner.gif" />
   <h1 align="center">Hello world!</h1>
   <h2 align="center">Soy Dana, una fan de la tecnología, el arte y los videojuegos, lo que me motivó a adentrarme en el mundo de la programación.</h2>
   <h3 align="center">artista digital freelance de día y diseñadora UX/UI por las noches</h3>
