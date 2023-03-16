@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-    <img src="file:///C:/Users/Danabanana/Downloads/New%20Project%20(3).gif" width="200" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif" width="200" />
   <h1 align="center">Hello world!</h1>
   <h2 align="center">Soy Dana, una fan de la tecnología, el arte y los videojuegos, lo que me motivó a adentrarme en el mundo de la programación.</h2>
   <h3 align="center">artista digital freelance de día y diseñadora UX/UI por las noches</h3>
@@ -15,8 +15,8 @@
   
 </div>
 
-<div id="header" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif" />
+<div align="center">
+  <img src="" />
 </div>
 
 <div style="display:inline_block"><br>
